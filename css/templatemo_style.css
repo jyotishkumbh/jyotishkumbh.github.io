@@ -81,6 +81,14 @@ p {
 
 .logo {
   padding: 20px 0;
+  margin-left:-100px;
+  font-size:40px;
+  font-family:'Juice ITC';
+  font-weight:bold;
+  
+	
+	
+	
 }
 
 .main-menu ul {
@@ -869,8 +877,8 @@ textarea {
   height: 120px;
 }
 
-.service-item h4 {
-  font-family: 'Open Sans', sans-serif;
+.service-item  {
+  font-family:Algerian;
   font-size: 16px;
   font-weight: 700;
   color: #333;
@@ -941,13 +949,13 @@ textarea {
 
 .testimonails-content p {
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
   color: #333;
   font-style: italic;
 }
 
 .testimonails-content h6 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
   text-align: center;
   margin-top: 30px;
