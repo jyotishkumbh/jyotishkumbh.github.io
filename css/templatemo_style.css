@@ -185,6 +185,11 @@ p {
 
 /*-- Timeline --*/
 
+
+
+#abt{
+  margin-left:315px;
+}
 .timeline-thumb {
   position: relative;
   text-align: center;
@@ -241,9 +246,12 @@ p {
 
 /*-- Our Team --*/
 
+
 .team-thumb {
   position: relative;
   text-align: center;
+ left: 290px;
+ 
 }
 
 .team-thumb .author img {
@@ -269,7 +277,7 @@ p {
 
 .author-caption ul {
   padding: 0;
-  margin: 0;
+  margin: 0px;
 }
 
 .author-caption li {
@@ -295,19 +303,29 @@ p {
 .author-details {
   margin-top: 15px;
   text-align: center;
+
+  
 }
 
 .author-details h2 {
   display: block;
+
+  
   margin-bottom: 0px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
+  margin-left :370px;
+    width: 80px;
 }
 
 .author-details span {
   color: #f78e21;
+margin-left :385px;
+
+  
+  
   text-transform: uppercase;
 }
 
